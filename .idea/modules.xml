@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accountapi/PhotoAppApiAccountManagement.iml" filepath="$PROJECT_DIR$/accountapi/PhotoAppApiAccountManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekams/PhotoAppApiDiscoveryService.iml" filepath="$PROJECT_DIR$/eurekams/PhotoAppApiDiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usersapi/PhotoAppApiUsers.iml" filepath="$PROJECT_DIR$/usersapi/PhotoAppApiUsers.iml" />
+    </modules>
+  </component>
+</project>
