@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/apigateway/ApiGateway.iml" filepath="$PROJECT_DIR$/apigateway/ApiGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/accountapi/PhotoAppApiAccountManagement.iml" filepath="$PROJECT_DIR$/accountapi/PhotoAppApiAccountManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekams/PhotoAppApiDiscoveryService.iml" filepath="$PROJECT_DIR$/eurekams/PhotoAppApiDiscoveryService.iml" />
       <module fileurl="file://$PROJECT_DIR$/usersapi/PhotoAppApiUsers.iml" filepath="$PROJECT_DIR$/usersapi/PhotoAppApiUsers.iml" />

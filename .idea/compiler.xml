@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PhotoAppApiAccountManagement" />
+        <module name="ApiGateway" />
         <module name="PhotoAppApiDiscoveryService" />
         <module name="PhotoAppApiUsers" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ApiGateway" target="17" />
       <module name="PhotoAppApiAccountManagement" target="17" />
       <module name="PhotoAppApiDiscoveryService" target="17" />
       <module name="PhotoAppApiUsers" target="17" />
@@ -19,6 +21,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ApiGateway" options="-parameters" />
       <module name="PhotoAppApiAccountManagement" options="-parameters" />
       <module name="PhotoAppApiDiscoveryService" options="-parameters" />
       <module name="PhotoAppApiUsers" options="-parameters" />
